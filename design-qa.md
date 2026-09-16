@@ -71,3 +71,7 @@ Evidence: `qa/comparison-final.png`, `qa/typography-comparison.png`, `qa/mobile-
 ## Separate pages
 - Home retains short summaries; service and workshop details now have dedicated HTML entry points.
 - Verified direct page loading, navigation, and desktop/mobile layouts. Multi-page production build passed.
+
+## Representative page
+- Moved the supplied profile to representative.html and linked it from the workshop page.
+- Verified desktop/mobile rendering and successful production build.

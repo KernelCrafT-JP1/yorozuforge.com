@@ -17,3 +17,5 @@ When implementing from a selected generated mock, treat that image as the source
 - Navigation destinations must contain substantive information: concrete IT consultation/development examples and a distinct workshop section with a visible representative profile.
 
 - Keep the homepage concise. Service details and workshop/profile content belong on separate services.html and workshop.html pages, as requested by the user.
+
+- Representative profile lives on representative.html; the workshop page links to it.
