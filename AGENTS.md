@@ -15,3 +15,5 @@ Before making substantial visual changes, use the Product Design plugin's `get-c
 When implementing from a selected generated mock, treat that image as the source of truth for layout, component anatomy, density, spacing, color, typography, visible content, and hierarchy.
 
 - Navigation destinations must contain substantive information: concrete IT consultation/development examples and a distinct workshop section with a visible representative profile.
+
+- Keep the homepage concise. Service details and workshop/profile content belong on separate services.html and workshop.html pages, as requested by the user.
