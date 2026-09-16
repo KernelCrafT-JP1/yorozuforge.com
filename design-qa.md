@@ -66,3 +66,4 @@ Evidence: `qa/comparison-final.png`, `qa/typography-comparison.png`, `qa/mobile-
 - P3: Generated reference type contours differ from an actual web font. Current font is a close accessible implementation, not a rasterized heading.
 - External mail application's behavior depends on visitors' device configuration. A copyable address is provided as fallback.
 - DNS and HTTPS provisioning are deployment steps and are tracked separately from design fidelity.
+`n## Service and workshop content update`n- Verified desktop and 390px mobile layouts, no horizontal overflow.`n- Both navigation anchors reach the corresponding substantive sections.`n- Production build passed.
