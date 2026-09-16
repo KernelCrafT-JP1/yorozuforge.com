@@ -19,3 +19,5 @@ When implementing from a selected generated mock, treat that image as the source
 - Keep the homepage concise. Service details and workshop/profile content belong on separate services.html and workshop.html pages, as requested by the user.
 
 - Representative profile lives on representative.html; the workshop page links to it.
+
+- Representative navigation is labeled 代表 in the shared menu; do not add a separate representative link within the workshop content.
